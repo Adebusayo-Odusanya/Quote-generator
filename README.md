@@ -33,5 +33,5 @@ Clone the repository to your local machine using the following command: git clon
 <li>JavaScript: Implements the logic for generating quotes based on mood selection and random quote generation.</li>
   </ol>
 
-<h3>Contribution<h3>
+<h3>Contribution</h3>
 <p>Contributions to the Inspirational Quote Generator project are welcome! If you have any ideas for improvements or new features, feel free to submit a pull request. Please ensure that your contributions adhere to the project's coding standards and guidelines.</p>
