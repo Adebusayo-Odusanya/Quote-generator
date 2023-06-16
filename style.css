@@ -1,0 +1,68 @@
+* {
+    font-family: 'M PLUS Rounded 1c', Avenir Next, Helvetica, sans-serif;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    background: wheat;
+    text-align: center;
+    color: #5F1BE4;
+    font-size: 1.25rem;
+    justify-content: center;
+    align-items: center;
+
+}
+/** Typography **/
+
+h1 {
+    color: #E45F1B;
+}
+
+#quoteSpace {
+    display: flex;
+    margin-top: 1em;
+    border: 2px solid #E45F1B;
+    width: 70%;
+    justify-content: center;
+    align-items: center;
+    min-height: 200px;
+    text-align: center;
+    border-radius: 50px;
+    align-self: center;
+    padding: 0 5px;
+    font-size: 1.5rem;
+}
+
+/** containers **/
+
+btnContainer {
+    display: flex;
+    border: 1px solid blue;
+}
+
+#title {
+    display: flex;
+    flex-direction: column;
+}
+
+/** Buttons **/
+
+button {
+    padding: 1.2em;
+    border-radius: 10px;
+    font-size: 1.25rem;
+    color: #E45F1B;
+    background-color: #1BE45F;
+}
+
+button:hover {
+    color: #8990ec;
+    font-size: 1.15rem;
+    border-radius: 15px;
+    background-color: #ECE589;
+    box-shadow: 1px 1.5px 2px 1.5px;
+}
+
+
