@@ -1,5 +1,5 @@
 # quote-generator
-Inspirational Quote Generator
+<h2>Inspirational Quote Generator</h2>
 The Inspirational Quote Generator is a simple project that allows users to receive inspirational quotes based on their selected mood or generate a random quote. It serves as a source of motivation and positivity for users seeking inspiration in their daily lives.
 
 Features
